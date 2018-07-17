@@ -1,1 +1,4 @@
-*.csv
+.ipynb_checkpoints/
+Data_*.csv
+Email-18*/
+Output/
