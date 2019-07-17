@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+matplotlib-scalebar
+seaborn
+imageio
+tqdm
