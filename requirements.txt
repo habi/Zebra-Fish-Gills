@@ -1,6 +1,7 @@
 numpy
 scipy
 pandas
+xlrd
 matplotlib
 matplotlib-scalebar
 seaborn
