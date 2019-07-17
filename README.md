@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/habi/Zebra-Fish-Gills/master)
+[![DOI](https://zenodo.org/badge/147517895.svg)](https://zenodo.org/badge/latestdoi/147517895) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/habi/Zebra-Fish-Gills/master)
 
 Complete analysis for the paper *Adaptation Mechanism Of The Adult Zebrafish Respiratory Organ To Endurance Training*.
 
