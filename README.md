@@ -1,4 +1,6 @@
-[![DOI](https://zenodo.org/badge/147517895.svg)](https://zenodo.org/badge/latestdoi/147517895) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/habi/Zebra-Fish-Gills/master)
+[![DOI](https://zenodo.org/badge/147517895.svg)](https://zenodo.org/badge/latestdoi/147517895)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/habi/Zebra-Fish-Gills/master)
+[![Gitter](https://badges.gitter.im/Zebra-Fish-Gills/community.svg)](https://gitter.im/Zebra-Fish-Gills/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Complete analysis for the manuscript on the *Adaptation Mechanism Of The Adult Zebrafish Respiratory Organ To Endurance Training*.
 A preprint of the manuscript can be found on bioRxiv with the DOI [10.1101/744300](https://doi.org/10.1101/744300).
@@ -9,3 +11,4 @@ The [analysis notebook](https://github.com/habi/Zebra-Fish-Gills/blob/master/Gil
 The tomographic datasets of the delineated fish gills which we used for the analyis can be downloaded on [OSF](https://cos.io/our-products/osf/) here: https://doi.org/10.17605/OSF.IO/A5ESX
 This should enable you to get exactly the same results as we did, e.g. do some [reproducible research](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research).
 Please get in touch with me if you cannot repeat the analysis with this data, I'm happy to help!
+You can either send me an [email](https://www.anatomie.unibe.ch/haberthu), [file an issue](https://github.com/habi/Zebra-Fish-Gills/issues) or use the 'chat on Gitter' badge on top to start a chat.
