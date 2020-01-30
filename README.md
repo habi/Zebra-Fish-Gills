@@ -3,7 +3,7 @@
 [![Gitter](https://badges.gitter.im/Zebra-Fish-Gills/community.svg)](https://gitter.im/Zebra-Fish-Gills/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Complete analysis for the manuscript on the *Adaptation Mechanism Of The Adult Zebrafish Respiratory Organ To Endurance Training*.
-A preprint of the manuscript can be found on bioRxiv with the DOI [10.1101/744300](https://doi.org/10.1101/744300).
+A preprint of the manuscript can be found on bioRxiv with the DOI [10.1101/744300](https://doi.org/10.1101/744300), it's currently under revision at PLOS ONE.
 
 We want to see differences in the gills of trained and untrained zebrafishes.
 The [analysis notebook](https://github.com/habi/Zebra-Fish-Gills/blob/master/Gills-Analysis.ipynb) was used to read all the raw data and to procuce all figures in the manuscript.
