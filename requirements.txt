@@ -6,5 +6,5 @@ matplotlib
 matplotlib-scalebar
 seaborn
 imageio
-skimage
+scikit-image
 tqdm
