@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/147517895.svg)](https://zenodo.org/badge/latestdoi/147517895)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/habi/Zebra-Fish-Gills/master)
-[![Gitter](https://badges.gitter.im/Zebra-Fish-Gills/community.svg)](https://gitter.im/Zebra-Fish-Gills/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Join the chat at https://gitter.im/habi/Gills](https://badges.gitter.im/habi/Gills.svg)](https://gitter.im/habi/Gills)
 
 Complete analysis for the manuscript on the *Adaptation Mechanism Of The Adult Zebrafish Respiratory Organ To Endurance Training*.
 A preprint of the manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101/744300v4) with the [doi:10.1101/744300](https://doi.org/10.1101/744300), the peer-reviewed version of the manuscript was published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228333) at [doi:10.1371/journal.pone.0228333](https://doi.org/10.1371/journal.pone.0228333).
